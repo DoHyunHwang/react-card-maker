@@ -13,7 +13,7 @@ const Login = ({ authService }) => {
     });
   }
   const onLogin = event => {
-    authService //
+    authService
       .login(event.currentTarget.textContent)
       .then(data => goToMaker(data.user.uid));
   };
