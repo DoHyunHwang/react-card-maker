@@ -4,6 +4,7 @@
   width: 100%;
   background-color: makerGreen;
   text-align: center;
+  border-radius: 0 0 10px 10px;
 }
 
 .title {
