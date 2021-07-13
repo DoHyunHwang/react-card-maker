@@ -35,7 +35,7 @@ const ImageFileInput = memo(({ imageUploader, name, onFileChange }) => {
           className={`${styles.button} ${name ? styles.blue : styles.grey}`}
           onClick={onButtonClick}
         >
-          {name || 'No file'}
+          {name || '이미지 등록'}
         </button>
       )}
       {loading && <div className={styles.loading}></div>}
