@@ -1,4 +1,4 @@
-# React-card-maker
+## React-card-maker
 
 ![Card_maker](https://user-images.githubusercontent.com/68048248/125464518-22a65367-a67b-4f0a-af47-34c3afcefcf9.gif)
 
