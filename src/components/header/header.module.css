@@ -21,7 +21,8 @@
 .logout {
   position: absolute;
   right: 3em;
-  top: 1em;
+  /* top: 1em; */
+  top: 0.2em;
   padding: 0.8em;
   border-radius: 20%;
   background-color: makerBlack;

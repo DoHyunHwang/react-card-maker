@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "Business card Maker",
+    "public":"build",
+    "ignore": ["**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

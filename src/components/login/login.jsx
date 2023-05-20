@@ -8,7 +8,7 @@ const Login = ({ authService }) => {
   const history = useHistory();
   const goToMaker = ({userId}) => {
     history.push({
-      pathname: '/maker',
+      pathname: '/react-card-maker',
       state: {id: userId},
     });
   }
